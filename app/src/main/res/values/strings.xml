@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoronaTracking</string>
+    <string name="total_confirmed">Total confirmed</string>
+    <string name="new_confirmed">New confirmed</string>
+    <string name="total_deaths">Total deaths</string>
+    <string name="new_deaths">New deaths</string>
+    <string name="total_recovered">Total recovered</string>
+    <string name="new_recovered">New recovered</string>
+</resources>
